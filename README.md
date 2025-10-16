@@ -15,7 +15,7 @@ The dashboard helps answer:
 * How were they distributed among regions?
 * Which categories were especially popular in the United States?
 
-🔗 **Live Dashboard:** [YouTube Trends Dashboard (Tableau Public)](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeTendnciasdoYoutube/Dashboard1)
+🔗 **Live Dashboard:** [YouTube Trends Dashboard (Tableau Public)](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/YoutubeTreendingDashboard-final/Dashboard1)
 📊 [**Open YouTube Trending Dashboard Presentation (OneDrive)**](https://1drv.ms/b/c/d1aeda57ea1dab69/ETe6SLqfANVPtnPp9PAoVTABSbvMgP2WEDA1WBingSMKIA?e=0Y2jAV)
 
 ---
