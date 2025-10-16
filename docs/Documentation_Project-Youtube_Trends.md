@@ -111,7 +111,7 @@ Below are the main implementation highlights:
 
 ### 1. Dashboard Access
 **Tableau Public:**  
-[https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeTendnciasdoYoutube/Dashboard1](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeTendnciasdoYoutube/Dashboard1)
+[https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/YoutubeTreendingDashboard-final/Dashboard1](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/YoutubeTreendingDashboard-final/Dashboard1)
 
 ---
 
