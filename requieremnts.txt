@@ -1,0 +1,17 @@
+## Requirements
+
+To reproduce the data preparation and analysis steps:
+
+- **Python 3.9+**
+- **Libraries:**
+  - pandas==2.2.2
+  - numpy==1.26.4
+  - matplotlib==3.8.4
+  - seaborn==0.13.2
+  - jupyter==1.0.0 (optional, for exploration)
+  
+For data visualisation:
+
+- **Tableau Public** (version 2024.2 or later)
+  - Dashboard: *YouTube Trending Dashboard*
+  - Data source: `trending_by_time.csv`
