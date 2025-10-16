@@ -85,10 +85,3 @@ docs/
 
 ---
 
-## 🧭 How to Use
-
-1. Download this repository.
-2. Open the live dashboard link above.
-3. Use the **filters** to explore trends by category, date, and region.
-4. Read the **slides** for summarized insights per country.
-
